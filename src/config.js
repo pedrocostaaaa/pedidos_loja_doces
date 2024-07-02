@@ -1,9 +1,9 @@
 const config = {
-    db:{
-        host:"localhost",
-        user:"root",
-        password:"",
-        database:"pedidos_loja_doces"
+    db: {
+        host: "localhost",
+        user: "root",
+        password: "",
+        database: "pedidos_loja_doces"
     }
 }
 
