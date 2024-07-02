@@ -26,7 +26,7 @@ insert into cadastro_pedidos (id_pedido,descrição_pedido,valor_total) values
 (10,"bolo sem lactose"),
 (11,"12,89");
 
-select * from doces;
+select * from cadastro_pedidos;
 
 
 
